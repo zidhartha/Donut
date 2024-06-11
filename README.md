@@ -23,7 +23,7 @@ and spinning on the screen. Basically, a flying donut. Why not?
 
 4. Well, how to map this 3D object into 2D ie terminal screen?
 
-![Step Four!](images/step_four.png "Step four")
+![Step Four!](C:\Users\Kiuadmin\Downloads\step_four.png "Step four")
 
 Each character in the code corresponds to a pixel on our terminal. However, how to 
 shade it? For this, we calculate the dot product of the surface normal and the direction 
