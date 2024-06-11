@@ -19,7 +19,7 @@ the full maths behind it [here](https://www.a1k0n.net/2011/07/20/donut-math.html
 3. Now, we need to rotate about the X and Z axis so it looks like it's floating
 and spinning on the screen. Basically, a flying donut. Why not?
 
-![Step Three!](images/step_three.png "Step Three")
+![Step Three!](C:\Users\Kiuadmin\Downloads/step_three.png "Step Three")
 
 4. Well, how to map this 3D object into 2D ie terminal screen?
 
