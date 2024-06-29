@@ -3,12 +3,13 @@ import java.util.Arrays;
 public class Donut {
     public static void main(String[] args) {
         int counter;
-        double x_Rotation = 0, y_rotation = 0; // x and y are basically rotation angles.
+        double x_Rotation = 0, y_rotation = 0; // basically rotation angles.
 
         double[] z = new double[1760]; // An array to store the depth values of each point
         char[] Donut = new char[1760]; // This will actually store the ASCII structure of the donut
 
-        System.out.println("\u001b[2J"); // This clears the console since we need console to run this code.Intelij cant handle Donuts.
+        System.out.println("\u001b[2J"); //This clears the console since we need console to run this code.
+        //Intelij cant handle Donuts.
 
         //This is an infinite loop.
         for (; ; ) {
